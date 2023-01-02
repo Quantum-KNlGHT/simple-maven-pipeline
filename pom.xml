@@ -55,7 +55,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>com.sapient.trg.pl.App</mainClass>
+								<mainClass>com.sapient.app.App</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
